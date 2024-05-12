@@ -12,6 +12,11 @@ li {
     border-style: solid;
 }
 
+.row {
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
 #chicken, #beef, #sushi  {
     background-color: #efef0380;
     margin-bottom: 15px;
